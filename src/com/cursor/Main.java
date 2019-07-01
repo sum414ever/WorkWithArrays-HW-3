@@ -12,7 +12,7 @@ public class Main {
         returnValue.changeValueInArray();
 
         SumAllPositiveValues returnSum = new SumAllPositiveValues();
-        returnSum.addedAllPositiveValues();
+        returnSum.addAllPositiveValues();
 
         AverageAllNumbers returnAverage = new AverageAllNumbers();
         returnAverage.returnAverageAllNumbers();

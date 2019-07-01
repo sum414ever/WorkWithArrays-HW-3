@@ -1,4 +1,4 @@
-package com.cursor.actionsWithArrays;
+package com.cursor.actions_with_arrays;
 
 import java.util.ArrayList;
 

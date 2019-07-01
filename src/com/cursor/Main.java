@@ -1,6 +1,6 @@
 package com.cursor;
 
-import com.cursor.actionsWithArrays.*;
+import com.cursor.actions_with_arrays.*;
 
 public class Main {
 

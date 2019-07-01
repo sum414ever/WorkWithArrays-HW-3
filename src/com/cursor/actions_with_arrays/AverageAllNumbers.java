@@ -1,4 +1,4 @@
-package com.cursor.actionsWithArrays;
+package com.cursor.actions_with_arrays;
 
 public class AverageAllNumbers {
     public void returnAverageAllNumbers(){
